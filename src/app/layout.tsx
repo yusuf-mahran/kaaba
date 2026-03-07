@@ -20,6 +20,14 @@ export const metadata: Metadata = {
     description:
       'Premium Hajj & Umrah journeys with curated packages, trusted guidance, and seamless planning.',
     type: 'website',
+    images: [
+      {
+        url: '/posters/cover.png',
+        width: 1200,
+        height: 630,
+        alt: 'Kaaba - Premium Hajj & Umrah',
+      },
+    ],
   },
   robots: {
     index: true,
