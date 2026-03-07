@@ -1,6 +1,6 @@
 # ![Kaaba - Premium Hajj & Umrah](./public/posters/cover.png)
 
-<div align="center">
+  <div align="center">
 
 **Premium Hajj & Umrah journeys with curated packages, trusted guidance, and seamless planning.**
 
@@ -13,7 +13,7 @@ A high-performance, responsive landing page that helps pilgrims discover and boo
 [![Framer Motion](https://img.shields.io/badge/Motion-12-black?logo=framer)](https://www.framer.com/motion/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
-</div>
+  </div>
 
 ---
 
@@ -44,15 +44,15 @@ Open [http://localhost:3000](http://localhost:3000) to view the site.
 
 ## 🛠️ Tech Stack
 
-| Layer         | Technology                  |
-| ------------- | --------------------------- |
-| Framework     | Next.js 16 (App Router)     |
-| Language      | TypeScript 5                |
-| Styling       | Tailwind CSS 4              |
-| Animation     | Motion (Framer Motion)      |
-| Date Handling | date-fns + react-day-picker |
-| Icons         | react-icons                 |
-| Notifications | react-toastify              |
+| Layer         | Technology                                                                                          |
+| ------------- | --------------------------------------------------------------------------------------------------- |
+| Framework     | [![Next][Next.js]][Next-url]                                                                        |
+| Language      | [![TypeScript][TypeScript]][TypeScript-url]                                                         |
+| Styling       | [![Tailwind CSS][Tailwind]][Tailwind-url]                                                           |
+| Animation     | [![Framer Motion][Framer]][Framer-url]                                                              |
+| Date Handling | [![date-fns][Date-fns]][Date-fns-url] [![React Day Picker][React-Day-Picker]][React-Day-Picker-url] |
+| Icons         | [![React Icons][React-Icons]][React-Icons-url]                                                      |
+| Notifications | [![React Toastify][React-Toastify]][React-Toastify-url]                                             |
 
 ---
 
@@ -161,6 +161,26 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
-<div align="center">
-  Made with ❤️ for every pilgrim's sacred journey
-</div>
+  <div align="center">
+    Made with ❤️ for every pilgrim's sacred journey
+  </div>
+
+  <!-- MARKDOWN LINKS & IMAGES -->
+  <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[TypeScript]: https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white
+[TypeScript-url]: https://www.typescriptlang.org/
+[Tailwind]: https://img.shields.io/badge/tailwindcss-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white
+[Tailwind-url]: https://tailwindcss.com/
+[Framer]: https://img.shields.io/badge/Motion-000000?style=for-the-badge&logo=framer&logoColor=white
+[Framer-url]: https://www.framer.com/motion/
+[Date-fns]: https://img.shields.io/badge/date--fns-8C1B54?style=for-the-badge&logo=date-fns&logoColor=white
+[Date-fns-url]: https://date-fns.org/
+[React-Day-Picker]: https://img.shields.io/badge/react--day--picker-FF6347?style=for-the-badge&logo=react&logoColor=white
+[React-Day-Picker-url]: https://react-day-picker.js.org/
+[React-Icons]: https://img.shields.io/badge/react--icons-E91E63?style=for-the-badge&logo=react&logoColor=white
+[React-Icons-url]: https://react-icons.github.io/react-icons/
+[React-Toastify]: https://img.shields.io/badge/react--toastify-C047D8?style=for-the-badge&logo=react&logoColor=white
+[React-Toastify-url]: https://fkhadra.github.io/react-toastify/
