@@ -52,7 +52,7 @@ export default function AboutSection() {
 
         {/* Right: image placeholder */}
         <AnimatedImg
-          src="/hajj.avif"
+          src="/hajj.png"
           alt="About Kaaba"
           className="relative mx-auto aspect-2/3 h-85 max-w-full overflow-hidden rounded-full bg-surface-secondary"
         />

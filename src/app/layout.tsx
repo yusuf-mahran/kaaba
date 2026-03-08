@@ -14,7 +14,14 @@ export const metadata: Metadata = {
   title: 'Kaaba | Premium Hajj & Umrah',
   description:
     'Premium Hajj & Umrah journeys with curated packages, trusted guidance, and seamless planning.',
-  metadataBase: new URL('https://kaaba.example'),
+  metadataBase: new URL('https://kaaba-one.vercel.app/'),
+
+  twitter: {
+    card: 'summary_large_image',
+    site: '@kaaba',
+    creator: '@kaaba',
+    images: ['/posters/cover.png'],
+  },
   openGraph: {
     title: 'Kaaba | Premium Hajj & Umrah',
     description:
@@ -22,7 +29,7 @@ export const metadata: Metadata = {
     type: 'website',
     images: [
       {
-        url: '/posters/cover.png',
+        url: './../../public/posters/cover.png',
         width: 1200,
         height: 630,
         alt: 'Kaaba - Premium Hajj & Umrah',
@@ -32,6 +39,10 @@ export const metadata: Metadata = {
   robots: {
     index: true,
     follow: true,
+  },
+  icons: {
+    icon: './favicon.ico',
+    apple: './../../public/logo.png',
   },
 };
 

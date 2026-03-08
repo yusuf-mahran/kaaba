@@ -5,7 +5,7 @@ export default function Logo() {
   return (
     <Link href="#" className="flex items-center gap-0">
       <Image
-        src="/logo.avif"
+        src="/logo.png"
         alt="Burak Logo"
         width={96}
         height={96}
